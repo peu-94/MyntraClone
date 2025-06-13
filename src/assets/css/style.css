@@ -8,7 +8,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #2c3e50;
+  color: #da611b;
 }
 
 .container {
@@ -18,8 +18,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header {
-  background: #35424a;
-  color: #ffffff;
+  background: #dc0b1c;
+  color: #c8cb0c;
   padding: 10px 0;
   text-align: center;
 }
